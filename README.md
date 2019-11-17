@@ -13,7 +13,7 @@ ascii-art.js
 [![Travis](https://img.shields.io/travis/khrome/ascii-art.svg)]()
 [![GitHub stars](https://img.shields.io/github/stars/khrome/ascii-art.svg?style=social&label=Star)](https://github.com/khrome/ascii-art)
 
-This is the documentation and test data repository for[ascii-art](https://github.com/khrome/ascii-art) ([What is ASCII-Art?](History.md))
+This is the documentation and test data repository for [ascii-art](https://github.com/khrome/ascii-art) ([What is ASCII-Art?](History.md))
 
 Images, fonts, tables, ansi styles and compositing in Node.js & the browser. 100% JS.
 
