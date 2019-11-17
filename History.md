@@ -7,14 +7,7 @@ TEXT AS PICTURES - HAND DRAWN
 -----------------------------
 Over time,  the written word developed into symbols which looked more like present-day text.  The very first  text art pictures were drawn by hand.  Creative people used ornamental penmanship to create wondrously beautiful documents and pictures. The monastic monks created breath-taking manuscripts which incorporated letters of text into their art.  However, there were few other pieces of art that were made from text characters.
 
-French poet and surrealist, Guillaume Apollinaire (1880-1918), used the shaped text in his handwritten visual word poems.  These visual word poems were given the term "calligrams" (1917).
-
-According to the Ruth and Marvin Sackner Archive of Concrete and Visual Poetry:
-
-"The calligrams of Apollinaire represent an important and original landmark in the history of visual and shaped poetry. These calligraphic poems may be considered as one of the precursors of modern concrete poetry."
-I will post an example of Apollinaire's calligram soon (when I find one).  In the meantime, enjoy two hand-written visual poems created by my 8 year old son.  They are entitled "Rainbow" and "Dimind" (Diamond).
-hand drawn typographical poems by my 8 year old son
-
+French poet and surrealist, Guillaume Apollinaire (1880-1918), used the shaped text in his handwritten visual word poems.  These visual word poems were given the term "calligrams" (1917). They are one of the precursors of modern concrete poetry.
 
 TEXT AS PICTURES - TYPOGRAPHY
 -----------------------------
