@@ -1,16 +1,16 @@
 The History of ASCII (Text) Art
 ===============================
 
-This is a brief history of ASCII Art, originally created by [Joan G Stark](https://en.wikipedia.org/wiki/Joan_Stark), a prolific creator of ASCII Art with contributions by Panati, Charles, John Foust, George Hutchison, Marc Leavey, Fred Lehmann, John Sheetz, James Willing and updated by Abbey Hawk Sparrow, creator of this software.
+This is a brief history of ASCII Art, originally created by [Joan G Stark](https://en.wikipedia.org/wiki/Joan_Stark), a prolific creator of ASCII Art with contributions by Charles Panati, John Foust, George Hutchison, Marc Leavey, Fred Lehmann, John Sheetz, James Willing and updated by Abbey Hawk Sparrow, creator of this software.
 
-TEXT AS PICTURES - HAND DRAWN
------------------------------
+Hand Drawn Text as Imagery
+--------------------------
 Over time,  the written word developed into symbols which looked more like present-day text.  The very first  text art pictures were drawn by hand.  Creative people used ornamental penmanship to create wondrously beautiful documents and pictures. The monastic monks created breath-taking manuscripts which incorporated letters of text into their art.  However, there were few other pieces of art that were made from text characters.
 
 French poet and surrealist, Guillaume Apollinaire (1880-1918), used the shaped text in his handwritten visual word poems.  These visual word poems were given the term "calligrams" (1917). They are one of the precursors of modern concrete poetry.
 
-TEXT AS PICTURES - TYPOGRAPHY
------------------------------
+Typesetting as Imagery
+----------------------
 People were relieved from writer's cramp once mechanical methods to create text were created.  The Chinese are generally recognized as the first group of people to develop the stamp/ink printing process (2nd Century AD) and the movable-type printing process (11th Century AD).
 It wasn't until the year 1450 that Johannes Gutenberg (along with businessman, Johann Fust and calligrapher, Peter Schoeffer) invented the printing press in Germany. It was based on a wine-press design and could print about 300 pages a day.  As a result, books were produced more quickly and for lower cost.   The art of typography could begin!
 
@@ -184,8 +184,8 @@ There is a section on how to make type-written reports, price lists, and menus, 
 ```
 Two cartoon characters from the 1962 book, "Art Typing"
 
-TEXT AS PICTURES -- TELETYPE
-----------------------------
+Teletype output as Imagery
+--------------------------
 Similar text images were broadcast via Radio Teletype (RTTY).  RTTY is a machine-to-machine method of communication which takes place over radio or telephone lines.  Its purpose is not for text art transmissions, but for text communication between operators.  The teletypewriter (or teleprinter) was invented in the early 1900s.  The largest manufacturer of the teleprinter in the United States was the Teletype Corporation.  The term "teletype" is used to refer to the teleprinter.  However the word "teletype" is actually a trademark of the AT&T Teletype Corporation (much like how the word "xerox" took over the copying machine industry).  The radio teleprinter became popular with the public after World War II when surplus teletype machines became available at a reasonable cost. These large machines provided a keyboard for input and a paper roll for printed output.  Video monitors didn't become feasible until the mid-1970s.  Even today, there are many active RTTY operators and clubs.
 RTTY operators (ham operators) have used various codes to transmit messages. These codes include BCD, EBCDIC, Morgan code, and Baudot code.  However RTTY transmissions typically used the five-bit, 32 character Baudot code.   Initially, RTTY did not use seven-bit ASCII (American Standard Code for Information Interchange). ASCII was not standardized until 1968.  There are differences between Baudot and ASCII. Differences include bit-size and number of characters allowed.  The  Baudot code uses numbers, upper case letters, and some punctuation characters.  It does not allow for lower case letters.  The ASCII code uses upper and lower case letters, numbers, and more of the "standard" punctuation characters.
 
@@ -282,22 +282,20 @@ RTTY History
 
 ```
 
-According to a chapter in the "RTTY Handbook",  text images have been sent via teletypewriter as early as 1923.  However, I have not discovered any of this "old" RTTY art.  From what I have found, the text images appeared frequently on radio teletype in the 1960s and the 1970s.  They were sent from ham operator to ham operator via radio transmissions.   I've been told that there was an article about RTTY art in an early 1960s issue of "73 Magazine" -- the publication for RTTY enthusiasts.  I've had no such luck in locating it -- yet.
-Many current ham operators agree that a gentleman named Don Royer is one of the foremost creators of RTTY art.  He signs his work with his ham operator identification, WA6PIR.
-
+According to a chapter in the "RTTY Handbook",  text images have been sent via teletypewriter as early as 1923.  However, I have not discovered any of this "old" RTTY art.  From what I have found, the text images appeared frequently on radio teletype in the 1960s and the 1970s.  They were sent from ham operator to ham operator via radio transmissions.   There was an article about RTTY art in an early 1960s issue of "73 Magazine" -- the publication for RTTY enthusiasts.
 
 [Collection of Baudot / RTTY Art](http://artscene.textfiles.com/rtty/)
 [RTTY Information](http://www.rtty.com)
 
 Another interesting web site that focuses on radio teletype artwork from the 1960's and 1970's can be found at the Jefferson Computer Museum web site.  The subtopic, Ancient Alphabetic Art, highlights teletype artwork from the1960s and the 1970s.  The webmaster, John Foust, has collected and posted numerous works from this era. You can also find information regarding outdated computer systems.  It is definitely worth a look!
 
-PAPER TAPE / PUNCH CARD ART
+Paper Tape & Punch Card Art
 ---------------------------
 example of computer punch tapePunch cards and punched paper tape were ways that information could be stored and rebroadcast.  Teleprinter messages could be received on tape and then be resent to other teleprinters by using a taper reader.  I haven't seen artwork created from punched paper tape, but I do remember seeing pictures made with punched cards.  The holes were punched in strategic locations so that when held to the light, the cards displayed an image.  The card I recall seeing was that of a Christmas tree.  Alas, it wasn't mine and it has long since disappeared.  I welcome e-mail from people who remember this art and might have an example of punch card art in their attic or basement!
 "Do not fold, spindle, or mutilate"
 
-ASCII and ANSI CODE
--------------------
+ASCII and ANSI Codes
+--------------------
 There are many sites on the Internet that thoroughly describe what ASCII is all about.  I will not go into great technical detail.  However I will list a few web pages that have additional and detailed information about ASCII.
 To begin, ASCII is an acronym for the American Standard Code for Information Interchange.  ASCII was created in the early 1960s but did not become a United States  government standard until 1968.  In the 1960s, there were many data communication codes that were competing for  the US Standard.  In 1962, IBM created and promoted a coding standard known as Extended Binary-Coded-Decimal Interchange Code (EBCDIC).  This was an 8-bit code which allowed up to 256 characters.   However it lost out to ASCII as a "PC standard".  EBCDIC is still used on many mainframe systems even today.
 
@@ -305,8 +303,7 @@ ASCII was defined by the American National Standards Institute (ANSI) in 1968 as
 
 There is another ANSI standard, ANSI Standard x3.16, which is an 8-bit code.  This expansion was defined in 1979 in an effort to standardize graphic character representations and cursor control.  It is based upon a 256 character set.  It includes the 128 characters/controls of ASCII and an extra 128 characters/controls.  It is sometimes called "extended ASCII" or "high ASCII", but it is really neither.  It is a different ANSI Standard -- but not the "American Standard Code".
 
-Have I totally confused you?
-For more reading on ASCII and other computer codes, look to the following:
+For more reading on ASCII and other text encodings:
 
 - [UTF](http://www.fileformat.info/info/charset/UTF-8/list.htm)
 - [ASCII charsets](http://czyborra.com/charsets/iso646.html)
@@ -314,7 +311,7 @@ For more reading on ASCII and other computer codes, look to the following:
 - [PETSCII](https://en.wikipedia.org/wiki/PETSCII)
 - [Code Page 437](https://en.wikipedia.org/wiki/Code_page_437)
 
-EARLY ASCII ART
+Early ASCII Art
 ---------------
 Perhaps the real start of ASCII art is with the beginning of the Internet. The Internet began in the 1960's as a means to communicate if nuclear war broke out. Military authorities created a network called ARPANET which connected 37 computers and several defense departments. No war came (thankfully) and the computer system expanded to include universities and other educational institutions. For many years the Internet belonged to the military and to the schools.
 
@@ -333,21 +330,17 @@ BBSs were developed in 1978 and became quite popular in the early 1980s..  MUDs 
 [Educational MUDS/MOOS](http://tecfa.unige.ch/edu-comp/WWW-VL/eduVR-page.html)
 
 
-RELATIVES OF ASCII ART
+Relatives of ASCII Art
 ----------------------
-- ANSI ART:
+- ANSI art:
 ANSI art is a cousin to ASCII art.   It is often used on BBS (bulletin board systems).  It also includes color and animation codes.  ANSI art is still created today.
-- ANSI / ASCII Information
-  http://hem1.passagen.se/haakshem/asciians.html
-- ANSi Maker extreme
-  http://www.pagesz.net/~mhare/ansi.html
-  includes ANSI related links/software (including "TheDraw")
-- AOL MACRO ART:
-America Online (AOL) is one of the few Internet/e-mail programs that did not allow for a fixed-width font.  Up until the release of version 4.0, all AOL users had one font. -- yes, ONE font.  That one font was Arial-10.  Arial is a proportional font.  The ASCII art of the Internet looked totally skewed to AOL users.  In response, AOL users modified the spacing (by hand) so that the ASCII art would look good in their Arial proportional font.   There are many AOL text artists who specialize in creating the Arial font pictures.  Because their audience is solely other AOL users, "extended" characters are often used and seen without problems.  These AOL Arial-font text pictures have been called "macros".   Some misinformed people call them "ASCII Art" - they are not.  Obviously, the AOL macros and ASCII art are 'cousins'.  They are not the same.  Many of the AOL macros are quite good.  Unfortunately, they are not often seen or used by people outside of AOL (due to the font/spacing/character issues).
-An example of a proportional font
- ```
-          -A gentle Kiss sent from up above-
-            just to tell you that you are loved.
+- [ANSI BBS Information](http://aminet.net/package/docs/hyper/ansiguide112)
+- AOL 'macro' art:
+America Online (AOL) is one of the few Internet/e-mail programs that did not allow for a fixed-width font.  Up until the release of version 4.0, all AOL users had one font. -- yes, ONE font.  That one font was Arial-10.  Arial is a proportional font.  The ASCII art of the Internet looked totally skewed to AOL users.  In response, AOL users modified the spacing (by hand) so that the ASCII art would look good in their Arial proportional font. These AOL Arial-font text pictures have been called "macros". Unfortunately, because there medium no longer exists, many macros have disappeared.
+
+An example of a proportional font macro:
+
+<textarea style="height:650px;width:100%;color:#333333">
                        ¸¸ ..,·,·```·-:_.. ¸
                  ,.·-` ` `    : .   ..··--.'````·-.¸
            ,.-` ˜  :`:..   `::\.  '':  ··,. ·.\::   `-,     * MSøA *
@@ -378,17 +371,27 @@ An example of a proportional font
  {:::::;;::::::::··,... ¸             .;;{::              ..:*´`   ··;:;}
   ',;;;™JäÐîë*```···...       ;;;::;\::;;;_...··``  ';;__..··'''';;;
     ``''''''''''''~-....___;;;···~~''--.....__....~.._··*-....;-~˜˜˜
-```
+</textarea>
 AOL text art "Macros" by Jadie.
 
-ASCII ART TODAY AND TOMORROW
-----------------------------
-The Internet continues to grow. As more personal and home computers are purchased, more people are joining in.   The 1999 Internet statistics have been released.  There are about 800 million pages on the World Wide Web.  Compare this to the 320 million pages estimate of 1997.
-Electronic mail (e-mail) is widespread.  Almost everyone has an e-mail address.  Some e-mail programs allow for graphic images -- but not all.  Even people who are capable of receiving images are hesitant to download unknown files and images.   ASCII art is text.  It does not have to be downloaded to be viewed.  For this reason, many people opt to send ASCII art.
+Resources
+---------
+- [The Surprisingly Rich History of ASCII Art](https://thenewstack.io/surprisingly-rich-history-ascii-art/)
+- [The Lost Ancestors of ASCII Art](https://www.theatlantic.com/technology/archive/2014/01/the-lost-ancestors-of-ascii-art/283445/)
+- [The Rise and Fall (and Rise) of ASCII Art](https://gizmodo.com/the-rise-and-fall-and-rise-of-ascii-art-486298439)
+- [Textmode Art Collective](http://blocktronics.org/)
+- [Artpacks.org](https://artpacks.org/)
+- [The History of ASCII](http://ascii-world.wikidot.com/history)
 
-Microsoft declared ASCII art "dead" in June of 1998.  Why?  I'm not sure.  But I would guess that Microsoft is encouraging people to use GIF and JPG graphics -- of course, with their software.  I also think that it is due to the fact that some software, namely Microsofts,  are now using a default proportional font setting. ASCII art will appear skewed when viewed in a proportional font.   All computer systems have capabilities for fixed-width font, so ASCII art isn't completely dead.  People only need to switch their font to a fixed-width one such as Courier, FixedSys, Monaco, or Lucinda Console.
 
-ASCII art is not dead.  At least not yet.  People continue to be intrigued and amazed by what can be created using basic keyboard characters.  ASCII art is still used in e-mail, in e-zines, on BBSs, in MUDs/MUGs, and on mIRC.  ASCII art has been used in web page development.  The non-graphical graphics have served a purpose.  ASCII art  has also found its way off the Internet -- albeit slowly.  It has been used to illustrate books (look for Jon Barnbrook's British Art History publication -1999).   It has been used to illustrate in a magazine (see 1999 June issue of UK's EXE Magazine).  A reproduction of an ASCII rendering was recently shown in 1999's contemporary art fair in Malaga, Spain (the author even eventually wanted to make her creations available on t-shirts).
+
+ASCII Art in the Future
+-----------------------
+The Internet is ubiquitous and textual, in nature. For this reason, ASCII art continues to be relevant and sees frequent use.
+
+Microsoft declared ASCII art "dead" in June of 1998 because they wanted to break fixed width alignment in their applications, but it proved premature.  All computer systems have capabilities for fixed-width font and for terminal usage it's the standard, so ASCII art isn't going anywhere.
+
+ASCII art is far from dead. People continue to be intrigued and amazed by what can be created using basic keyboard characters.  ASCII Art is still used in e-mail, in e-zines, on BBSs, in MUDs/MUGs, and on mIRC and in terminal consoles everywhere.  It has a rich history and an active userbase which has only expanded with the advent of UTF.
 
 ```
          __.-.__.-.__
@@ -408,6 +411,3 @@ ASCII art is not dead.  At least not yet.  People continue to be intrigued and a
 © Copyright 1999-2001 Joan G. Stark, All Rights Reserved.
 
 © Copyright 2019 Abbey Hawk Sparrow, All Rights Reserved.
-
-
-1
