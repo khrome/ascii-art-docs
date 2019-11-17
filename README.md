@@ -19,7 +19,7 @@ Images, fonts, tables, ansi styles and compositing in Node.js & the browser. 100
 
 In the beginning there was [colors.js](https://github.com/Marak/colors.js) but in the fine tradition of vendors calling out a problem they have the solution to, [chalk](https://github.com/yeoman/yo/issues/68) was introduced. In that same vein, I offer `ascii-art` as an update, expansion and generalization of [MooAsciiArt](http://mootools.net/forge/p/mooasciiart) and at the same time it can replace your existing ansi colors library.
 
-It features support for [Images](https://www.npmjs.com/package/ascii-art-image), [Styles](docs/Styles.md), [Tables](https://www.npmjs.com/package/ascii-art-table) and [Figlet Fonts](https://www.npmjs.com/package/ascii-art-font) as well as handling multi-line joining automatically.
+It features support for [Images](https://www.npmjs.com/package/ascii-art-image), [Styles](Styles.md), [Tables](https://www.npmjs.com/package/ascii-art-table) and [Figlet Fonts](https://www.npmjs.com/package/ascii-art-font) as well as handling multi-line joining automatically.
 
 Why would I use this instead of X?
 ----------------------------------
@@ -50,7 +50,7 @@ Styles
 
 Add ANSI styles to a string and return the result.
 
-| In your code                                    |         In the [Terminal](docs/Terminal.md)                           |
+| In your code                                    |         In the [Terminal](Terminal.md)                           |
 |-------------------------------------------------|---------------------------------------------------|
 | `.style(text, style[, close]) > String`          | `ascii-art text -s green "some text"`             |
 
@@ -69,7 +69,7 @@ Fonts
 
 Render a string using a figlet font and add that to the buffer. There is a batch version of this function which does not chain and takes an array( `.strings()`).
 
-| In your code                                    |         In the [Terminal](docs/Terminal.md)                           |
+| In your code                                    |         In the [Terminal](Terminal.md)                           |
 |-------------------------------------------------|---------------------------------------------------|
 | `.font(text, font[, style][, callback])`    | `ascii-art text -F <font> "Demo!"`             |
 
@@ -89,7 +89,7 @@ Images
 
 Create an image from the passed image and append that to the buffer
 
-| In your code                                    |         In the [Terminal](docs/Terminal.md)                           |
+| In your code                                    |         In the [Terminal](Terminal.md)                           |
 |-------------------------------------------------|---------------------------------------------------|
 | `.image(options[, callback])`                   | `ascii-art image path/to/my/file.jpg`             |
 
@@ -137,7 +137,7 @@ Artwork
 
 fetch a graphic from a remote source and append it to the current buffer.
 
-| In your code                                    |         In the [Terminal](docs/Terminal.md)                           |
+| In your code                                    |         In the [Terminal](Terminal.md)                           |
 |-------------------------------------------------|---------------------------------------------------|
 | `.artwork(options[, callback])`                 | ascii-art art [source][/path]            |
 
