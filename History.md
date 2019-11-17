@@ -321,8 +321,8 @@ Many people use the Internet for e-mail. Initially, the Internet was pure text -
 
 Besides digrams and charts, probably the earliest ASCII art from the Internet are the "Spy at the Wall" collection and the "Silly Cows" collection.  David Bader, an ASCII art enthusiast and editor of the 'Cows",  recently sent me the COMPLETE, UNCUT, ORIGINAL, and OFFICIAL Silly Cow collection!   These cows can be seen all over the Internet and are truly considered to be "classic" ASCII art..
 
-BULLETIN BOARD SYSTEMS & UNDERGROUND ART
-----------------------------------------
+BBSs & Underground Art
+----------------------
 ASCII art has also been used in the BBS (computer bulletin board systems) scene and in the underground art groups.
 
 BBSs were developed in 1978 and became quite popular in the early 1980s..  MUDs (multi-user dungeons) and MUGs (multi-user games) also became quite popular in the early years of the Internet.  These are all text based applications.  So, if someone wanted to include a picture or diagram, it had to be created from text.  Even today, BBSs, MUDs, and MUGs exist -- many are still text based.
@@ -340,38 +340,9 @@ America Online (AOL) is one of the few Internet/e-mail programs that did not all
 
 An example of a proportional font macro:
 
-<textarea style="height:650px;width:100%;color:#333333">
-                       ¸¸ ..,·,·```·-:_.. ¸
-                 ,.·-` ` `    : .   ..··--.'````·-.¸
-           ,.-` ˜  :`:..   `::\.  '':  ··,. ·.\::   `-,     * MSøA *
-        ,-` ··``-....`''```·::.:``-..  }:      :\:;`-. `-.     * 97 *
-       ¸`-...:³``-. -~`··.-`  /:  ;: :/:.`-..-~``: `  ˆ ;      *
-       '-.,    /``··.'-...-~``ˆ  `-,  ;:  /;|   `:. ;/:    ;;
-      `-..   /_                    \.`::/ ;:._··``` :;   ;;
-       `-.../ `-@:}        -~··-.. }:;/ :        ::;/:;:.--~`**´`³,
-          /     ` .·`     .‹.@:)':›  {::  ''·.·``~``;..;;*`³..~``* ;')
-         {        `··--..:     ``      ',  `''-...:;;. : ;\~''`³~³.-.~`;
-         .\··-..                       ::.·, `:;::/;::../:)``::-._:__;)
-   ,·`˜`( /. ,-·`.;~..--.¸           :::·ˆ `=.`,;_..··' ::::<``  -._³;
- ,`   :-`  ,-'' ;`'··--··`          .·`              ``·.::::::::(''`³..``;;)
- ;      `, :       `··,.._...· ·`   ·:::.;:             `-..::-``-.._;;):
-  ;::.   .`,::..     .     ',       ::::.  ;:::             ;: ''-_³   ;)
-  ',::::.    `,:::.    `··..;     `      ::\;::::            `,:*  `~˜
-   `,:::..     /:: ..       |                `,: :;:... .··    '`;
-     ',::..·  ;::::.·       ;:::..              `-,::..::·`       '·.
-      ',:    ;':::..        ;::...                 ',:::::::··       ',
-       ',  ,;`::::..       ;::.....:            :.. ',:: .:. .. .     ':
-       /::/:::::..       ;:: :..·`   _...··------·-;'-··...__.:. .  `;.
-     ;::  ;::  :        /  _ ..·-'```                          ``·.    ;;
-   ,³',:: ;::: ..·     ,·-`'' _..··-`` ..·      ;::·.                ;  ;;
-  (:   `--,....-·~ '-..~`-..··` ::`       ;;::,. ;::··`             ;*-.
-   \::·~          ..     `'·-~~``--·`'''`       `····,..::.___,.·'  ::}
-   /:::···:*´`   ;{;  ~* Råphåëlš   Åñgël *~   .         ..:;',
-  ;:::::::···`.     ::..    :::;;,,.. ··       ;;                   ..:;:)
- {:::::;;::::::::··,... ¸             .;;{::              ..:*´`   ··;:;}
-  ',;;;™JäÐîë*```···...       ;;;::;\::;;;_...··``  ';;__..··'''';;;
-    ``''''''''''''~-....___;;;···~~''--.....__....~.._··*-....;-~˜˜˜
-</textarea>
+<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¸¸&nbsp;..,·,·```·-:_..&nbsp;¸<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,.·-`&nbsp;`&nbsp;`&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;.&nbsp;&nbsp;&nbsp;..··--.'````·-.¸<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,.-`&nbsp;˜&nbsp;&nbsp;:`:..&nbsp;&nbsp;&nbsp;`::\.&nbsp;&nbsp;'':&nbsp;&nbsp;··,.&nbsp;·.\::&nbsp;&nbsp;&nbsp;`-,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;MSøA&nbsp;*<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,-`&nbsp;··``-....`''```·::.:``-..&nbsp;&nbsp;}:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:\:;`-.&nbsp;`-.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;97&nbsp;*<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¸`-...:³``-.&nbsp;-~`··.-`&nbsp;&nbsp;/:&nbsp;&nbsp;;:&nbsp;:/:.`-..-~``:&nbsp;`&nbsp;&nbsp;ˆ&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'-.,&nbsp;&nbsp;&nbsp;&nbsp;/``··.'-...-~``ˆ&nbsp;&nbsp;`-,&nbsp;&nbsp;;:&nbsp;&nbsp;/;|&nbsp;&nbsp;&nbsp;`:.&nbsp;;/:&nbsp;&nbsp;&nbsp;&nbsp;;;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`-..&nbsp;&nbsp;&nbsp;/_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\.`::/&nbsp;;:._··```&nbsp;:;&nbsp;&nbsp;&nbsp;;;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`-.../&nbsp;`-@:}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-~··-..&nbsp;}:;/&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;::;/:;:.--~`**´`³,<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`&nbsp;.·`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.‹.@:)':›&nbsp;&nbsp;{::&nbsp;&nbsp;''·.·``~``;..;;*`³..~``*&nbsp;;')<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`··--..:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;',&nbsp;&nbsp;`''-...:;;.&nbsp;:&nbsp;;\~''`³~³.-.~`;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.\··-..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;::.·,&nbsp;`:;::/;::../:)``::-._:__;)<br/>&nbsp;&nbsp;&nbsp;,·`˜`(&nbsp;/.&nbsp;,-·`.;~..--.¸&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:::·ˆ&nbsp;`=.`,;_..··'&nbsp;::::<``&nbsp;&nbsp;-._³;<br/>&nbsp;,`&nbsp;&nbsp;&nbsp;:-`&nbsp;&nbsp;,-''&nbsp;;`'··--··`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.·`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``·.::::::::(''`³..``;;)<br/>&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`,&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`··,.._...·&nbsp;·`&nbsp;&nbsp;&nbsp;·:::.;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`-..::-``-.._;;):<br/>&nbsp;&nbsp;;::.&nbsp;&nbsp;&nbsp;.`,::..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;',&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;::::.&nbsp;&nbsp;;:::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;:&nbsp;''-_³&nbsp;&nbsp;&nbsp;;)<br/>&nbsp;&nbsp;',::::.&nbsp;&nbsp;&nbsp;&nbsp;`,:::.&nbsp;&nbsp;&nbsp;&nbsp;`··..;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;::\;::::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`,:*&nbsp;&nbsp;`~˜<br/>&nbsp;&nbsp;&nbsp;`,:::..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/::&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`,:&nbsp;:;:...&nbsp;.··&nbsp;&nbsp;&nbsp;&nbsp;'`;<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;',::..·&nbsp;&nbsp;;::::.·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;:::..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`-,::..::·`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'·.<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;',:&nbsp;&nbsp;&nbsp;&nbsp;;':::..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;::...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;',:::::::··&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;',<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;',&nbsp;&nbsp;,;`::::..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;::.....:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:..&nbsp;',::&nbsp;.:.&nbsp;..&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;':<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/::/:::::..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;::&nbsp;:..·`&nbsp;&nbsp;&nbsp;_...··------·-;'-··...__.:.&nbsp;.&nbsp;&nbsp;`;.<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;::&nbsp;&nbsp;;::&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;_&nbsp;..·-'```&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``·.&nbsp;&nbsp;&nbsp;&nbsp;;;<br/>&nbsp;&nbsp;&nbsp;,³',::&nbsp;;:::&nbsp;..·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,·-`''&nbsp;_..··-``&nbsp;..·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;::·.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;;;<br/>&nbsp;&nbsp;(:&nbsp;&nbsp;&nbsp;`--,....-·~&nbsp;'-..~`-..··`&nbsp;::`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;;::,.&nbsp;;::··`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;*-.<br/>&nbsp;&nbsp;&nbsp;\::·~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`'·-~~``--·`'''`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`····,..::.___,.·'&nbsp;&nbsp;::}<br/>&nbsp;&nbsp;&nbsp;/:::···:*´`&nbsp;&nbsp;&nbsp;;{;&nbsp;&nbsp;~*&nbsp;Råphåëlš&nbsp;&nbsp;&nbsp;Åñgël&nbsp;*~&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..:;',<br/>&nbsp;&nbsp;;:::::::···`.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;::..&nbsp;&nbsp;&nbsp;&nbsp;:::;;,,..&nbsp;··&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..:;:)<br/>&nbsp;{:::::;;::::::::··,...&nbsp;¸&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.;;{::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..:*´`&nbsp;&nbsp;&nbsp;··;:;}<br/>&nbsp;&nbsp;',;;;™JäÐîë*```···...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;;;::;\::;;;_...··``&nbsp;&nbsp;';;__..··'''';;;<br/>&nbsp;&nbsp;&nbsp;&nbsp;``''''''''''''~-....___;;;···~~''--.....__....~.._··*-....;-~˜˜˜
+</div>
 AOL text art "Macros" by Jadie.
 
 Resources
